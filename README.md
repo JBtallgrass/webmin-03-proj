@@ -1,7 +1,7 @@
 #### Module 3: Matplotlib and pyplot
 
-** Could you complete the tasks in the Python Notebook in this repository?**
-** All changes must be committed and pushed to this repository to be submitted for credit (do not create your repository unless instructed to do so on the course website).**
+Could you complete the tasks in the Python Notebook in this repository?
+All changes must be committed and pushed to this repository to be submitted for credit (I only create your repository if instructed to do so on the course website).
 
 #### Rubric
 ** Each question is worth two points: ** 
@@ -9,10 +9,11 @@
 * Data plotted as described by the question (1 pt)
 * Plot contains required elements (title, axis labels, axis titles, legend if required)
 _____________________________________________________________________________________________________
+
 ### Matplotlib and pyplot
 
 Could you complete the tasks in the Python Notebook in this repository?
-All changes must be committed and pushed to this repository to be submitted for credit (do not create your own repository unless instructed to on the course website).
+All changes must be committed and pushed to this repository to be submitted for credit (do not create your repository unless instructed to do so on the course website).
 
 ### Rubric
 
